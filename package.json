@@ -2,10 +2,10 @@
   "name": "search-in-browser",
   "displayName": "Search In Browser",
   "description": "It can help you search selection or input text in default browser.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "chenwenhao",
   "engines": {
-    "vscode": "^1.61.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Other"
@@ -73,7 +73,7 @@
     "test": "node ./test/runTest.js"
   },
   "devDependencies": {
-    "@types/vscode": "^1.61.0",
+    "@types/vscode": "^1.51.0",
     "@types/glob": "^7.1.4",
     "@types/mocha": "^9.0.0",
     "@types/node": "14.x",
@@ -81,7 +81,7 @@
     "glob": "^7.1.7",
     "mocha": "^9.1.1",
     "typescript": "^4.4.3",
-    "@vscode/test-electron": "^1.6.2"
+    "@vscode/test-electron": "^1.5.1"
   },
   "bugs": {
     "url": "https://github.com/thinkingc/vscode-search-in-browser/issues",

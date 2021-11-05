@@ -44,6 +44,7 @@ function searchTextInBrowser(text) {
 
 // get user selection text
 function getSelectedText() {
+  // get all text of active editor 
   const documentText = vscode.window.activeTextEditor.document.getText()
   if (!documentText) return ''
 
