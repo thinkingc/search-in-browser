@@ -1,6 +1,17 @@
 # search-in-browser README
+A Simple Extension for VSCode to search easily using Google、bing or Baidu, There are three ways to use this extension:    
 
-This is the haha README for your extension "search-in-browser". After writing up a brief description, we recommend including the following sections.
+1. **context menu**
+
+![点击右键菜单](./images/rightmenu.gif)
+
+2. **click search-icon**  ⭐️⭐️⭐️⭐️  
+
+![点击搜索图标](./images/click-searchicon.gif)
+
+3. **shortcut key**(`cmd + g g`)  ⭐️⭐️⭐️⭐️⭐️
+
+![快捷键](./shortcutkey.gif)
 
 
 ## Features
@@ -8,19 +19,15 @@ This is the haha README for your extension "search-in-browser". After writing up
 - support custom QueryTemplate in settings
 - open default browser to search text that selection or user input
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-Todo:  
-- [ ] search in terminal  
-- [ ] input associate  
-- [ ] open browser inner vscode
+## Todo: 
+
+- [] search selection that inner terminal  
+- [] input box associate when user input
+- [] open browser inner vscode
 
 
 ## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
 
 This extension contributes the following settings:
 
