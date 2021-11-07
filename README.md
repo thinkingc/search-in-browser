@@ -3,15 +3,15 @@ A Simple Extension for VSCode to search easily using Google、bing or Baidu, The
 
 1. **context menu**
 
-![点击右键菜单](./images/rightmenu.gif)
+![点击右键菜单](https://raw.githubusercontent.com/thinkingc/search-in-browser/main/images/rightmenu.gif)
 
-2. **click search-icon**  ⭐️⭐️⭐️⭐️  
+1. **click search-icon**   
 
-![点击搜索图标](./images/click-searchicon.gif)
+![点击搜索图标](https://raw.githubusercontent.com/thinkingc/search-in-browser/main/images/click-searchicon.gif)
 
-3. **shortcut key**(`cmd + g g`)  ⭐️⭐️⭐️⭐️⭐️
+1. **shortcut key**(`cmd + g g`)  
 
-![快捷键](./shortcutkey.gif)
+![快捷键](https://raw.githubusercontent.com/thinkingc/search-in-browser/main/images/shortcutkey.gif)
 
 
 ## Features
