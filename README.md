@@ -1,5 +1,5 @@
 # search-in-browser README
-A Simple Extension for VSCode to search easily using Google、bing or Baidu, There are three ways to use this extension:    
+A Simple Extension for VSCode to search easily using Google、Bing or Baidu, There are three ways to use this extension:    
 
 1. **context menu**
 
@@ -20,7 +20,7 @@ A Simple Extension for VSCode to search easily using Google、bing or Baidu, The
 - open default browser to search text that selection or user input
 
 
-## Todo: 
+## Todo
 
 - [] search selection that inner terminal  
 - [] input box associate when user input
